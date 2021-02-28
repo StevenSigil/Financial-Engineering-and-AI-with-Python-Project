@@ -1,0 +1,6 @@
+financial_engineering/
+.vscode/
+data/
+venv/
+
+sp500*
