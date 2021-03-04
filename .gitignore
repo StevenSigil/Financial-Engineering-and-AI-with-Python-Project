@@ -3,4 +3,6 @@ financial_engineering/
 data/
 venv/
 
-sp500*
+00-*
+
+*.csv
